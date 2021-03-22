@@ -11,5 +11,7 @@ namespace ConsoleApp2
             Console.WriteLine("Pozz Martina :)");
         }
     }
+
+    class NewClass { }
 }
  //Dodana naredba u liniji 11
