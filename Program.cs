@@ -8,6 +8,8 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            Console.WriteLine("Pozz Martina :)");
         }
     }
 }
+ //Dodana naredba u liniji 11
